@@ -2,7 +2,7 @@
 
 Repositório criado para submeter os códigos implemetados na disciplina
 
-%% Estrutura de Pastas
+## Estrutura de Pastas
 
 * aulas/: armazena os códigos exemplos das aulas
 * praticas/: armazena os códigos das atividades práticas
